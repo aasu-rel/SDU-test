@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "stardashup",
+    "name": "StarDashUp Client",
+    "description": "Lightweight, high-performance Minecraft 1.8.9 client mod. Performance optimizations, responsive input, HUD utilities, and quality-of-life features.",
+    "version": "1.0.0",
+    "mcversion": "1.8.9",
+    "url": "https://github.com/stardashup/stardashup-client",
+    "updateUrl": "",
+    "authorList": ["StarDashUp Team"],
+    "credits": "Built with love for the 1.8.9 community.",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
